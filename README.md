@@ -27,7 +27,7 @@ To run point guided transformation, run:
 python run_point_transform.py
 ```
 
-## Results (need add more result images)
+## Results
 ### Basic Transformation
 <img src="pics/run_global_transform.gif" alt="alt text" width="800">
 
