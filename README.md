@@ -2,7 +2,7 @@
 
 This repository is Zilong Lei's implementation of Assignment_01 of DIP. 
 
-<img src="image.png" alt="alt text" width="800">
+<img src="pics/image.png" alt="alt text" width="800">
 
 ## Requirements
 
