@@ -34,6 +34,3 @@ python run_point_transform.py
 ### Point Guided Deformation
 <img src="pics/run_point_transform.gif" alt="alt text" width="800">
 
-## Acknowledgement
-
->📋 Thanks for the algorithms proposed by [Image Deformation Using Moving Least Squares](https://people.engr.tamu.edu/schaefer/research/mls.pdf).
